@@ -10,7 +10,7 @@
   "ErrataBulletin": {
     "EmptyLinesPerMark": 3,
     "IncludeVideoLink": true,
-    "Instructions": "Enter your errata between the time slots  \nFor full instructions see [README](../../..#readme)",
+    "Instructions": "We put a lot of effort into ensuring the accuracy of our content  \nHowever its not possible to edit videos after uploading to YouTube  \nLet us know about any inaccuracies in our episodes  \nEnter your errata between the time slots  \nFor full instructions see [README](../../..#readme)",
     "SecondsPerMark": 30,
     "TitleLocation": "top"
   },
@@ -19,7 +19,7 @@
     "MaxUpdateDwellTime": 900
   },
   "YouTube": {
-    "ChannelId": null,
+    "ChannelId": "UCjUU2Ysfqy-2f8WvKROtSsw",
     "ErattaLinkLocation": "bottom",
     "ErrataLinkTemplate": "To see errata for this video: {0}",
     "ExcludePlaylists": null,
