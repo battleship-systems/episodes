@@ -24,7 +24,7 @@
     "ErrataLinkTemplate": "To see errata for this video: {0}",
     "ExcludePlaylists": null,
     "ExcludeVideos": null,
-    "MinVideoSeconds": 60,
+    "MinVideoSeconds": 5,
     "QueriesPerDay": 10000,
     "TruncateDescriptionOverflow": true,
     "VideoDurationFilter": "any"
