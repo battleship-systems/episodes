@@ -15,7 +15,7 @@ on:
   #          │ │  │  │ │
   #          │ │  │  │ │
   schedule:
-    - cron: '25 2 * * *' # Time is UTC
+    - cron: '35 2 * * *' # Time is UTC
 
 jobs:
   build-and-run:
