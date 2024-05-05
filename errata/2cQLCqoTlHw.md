@@ -17,7 +17,7 @@ For full instructions see [README](../../..#readme)
 
 
 1:00 ------------------------------------------------  
-
+At 1:22 the voltage graph shows an arrow pointing down from the center of the graph to the negative maximum, in this case electrons would be flowing from the power lines to ground so the arrow should be positioned upwards, narration is correct
 
 
 
