@@ -21,6 +21,9 @@ At 1:22 the voltage graph shows an arrow pointing down from the center of the gr
 
 
 
+
+
+
 1:30 ------------------------------------------------  
 
 
