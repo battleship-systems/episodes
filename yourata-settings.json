@@ -3,9 +3,9 @@
     "DisableActionReportMilestone": false,
     "DisableConflictMonitorGitHubOperations": false,
     "DisableInitialSetupMilestone": false,
-    "DisableUnsupportedGitHubAPI": false,
     "DisableYouTubeSyncMilestone": false,
-    "DisableYouTubeVideoUpdate": false
+    "DisableYouTubeVideoUpdate": false,
+    "DisableYouTubeCorrections": false
   },
   "ErrataBulletin": {
     "EmptyLinesPerMark": 3,
@@ -20,10 +20,11 @@
   },
   "YouTube": {
     "ChannelId": "UCjUU2Ysfqy-2f8WvKROtSsw",
+    "CorrectionsCloser": "---",
     "ErattaLinkLocation": "bottom",
     "ErrataLinkTemplate": "To see errata for this video: {0}",
     "ExcludePlaylists": null,
-    "ExcludeVideos": [ 
+    "ExcludeVideos": [
       "iWnHVydarH4",
       "425zDoR9Ozo"
     ],
