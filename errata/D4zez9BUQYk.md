@@ -77,7 +77,7 @@ For full instructions see [README](../../..#readme)
 
 
 7:00 ------------------------------------------------  
-At 7:08 it is stated that the suction pressure regulating valve reduces the pressure in the evaporator, however the valve increases the pressure above that of the compressor to keep the coils from becoming too cold, see NAVSHIPS 359 0264
+At 7:08 it is stated that the suction pressure regulating valve reduces the pressure in the evaporator, however the valve increases the pressure above that of the compressor to keep the coils from becoming too cold, see NAVSHIPS 359-0264
 
 
 
