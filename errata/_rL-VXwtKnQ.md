@@ -160,7 +160,7 @@ For full instructions see [README](../../..#readme)
 
 
 
-
+At 15:29 it is stated that all bus-ties would be closed during general quarters, closed means its ON which is wrong so all the bus-ties would be OPEN during general quarters
 15:30 ------------------------------------------------  
 
 
