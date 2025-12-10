@@ -97,6 +97,7 @@ For full instructions see [README](../../..#readme)
 
 
 9:00 ------------------------------------------------  
+9:06 It is stated that the indicators pictured on BB-55 are bearing indicators, they are actually radar range indicators
 
 
 
