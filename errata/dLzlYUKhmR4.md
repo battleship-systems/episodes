@@ -27,7 +27,7 @@ For full instructions see [README](../../..#readme)
 
 
 2:00 ------------------------------------------------  
-
+At 2:20 the ship-wide announcing system is referred to as MCA, the actual 1MC general announcing system is MCG
 
 
 
