@@ -34,7 +34,7 @@ public static class YouRataConstants
     // Milliseconds to check for inert milestones
     public const int MilestoneLifetimeCheckInterval = 200;
     // Time zone for YouTube Data API quota reset
-    public const string PacificTimeZone = "US/Pacific";
+    public const string PacificTimeZone = "America/Los_Angeles";
     // Google Cloud project credential API key variable name
     public const string ProjectApiKeyVariable = "PROJECT_API_KEY";
     // OAuth 2.0 client ID variable name
