@@ -1,9 +1,9 @@
 {
   "ActionReport": {
-    "ActionReportIntelligence": "{ \"Condition\": \"MILESTONE_RUNNING\", \"ProcessId\": 3300 }",
+    "ActionReportIntelligence": "{ \"Condition\": \"MILESTONE_RUNNING\", \"ProcessId\": 3025 }",
     "InitialSetupIntelligence": "{ \"Condition\": \"MILESTONE_PENDING\", \"ProcessId\": 0 }",
-    "Logs": "[ \"[2026-10-26 0803Z] [Warning] (Microsoft.AspNetCore.Server.Kestrel) Overriding address(es) 'https://localhost:7040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.\\n\", \"[2026-10-26 0803Z] [Information] (Microsoft.Hosting.Lifetime) Now listening on: http://unix:/tmp/yourata.sock\\n\", \"[2026-10-26 0803Z] [Information] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.\\n\", \"[2026-10-26 0803Z] [Information] (Microsoft.Hosting.Lifetime) Hosting environment: Development\\n\", \"[2026-10-26 0803Z] [Information] (Microsoft.Hosting.Lifetime) Content root path: /home/runner/work/episodes/episodes/src/YouRata.ConflictMonitor\\n\" ]",
-    "Status": "Last Run 2026-10-26 0803Z",
-    "YouTubeSyncIntelligence": "{ \"Condition\": \"MILESTONE_COMPLETED\", \"ProcessId\": 3256, \"VideosProcessed\": 0, \"VideosSkipped\": 0, \"CalculatedQueriesPerDayRemaining\": 9899, \"LastQueryTime\": \"1793001825\", \"FirstVideoPublishTime\": \"1792621810\", \"OutstandingVideoPublishTime\": \"1705033649\", \"HasOutstandingVideos\": false }"
+    "Logs": "[ \"[2026-10-27 0818Z] [Warning] (Microsoft.AspNetCore.Server.Kestrel) Overriding address(es) 'https://localhost:7040'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.\\n\", \"[2026-10-27 0818Z] [Information] (Microsoft.Hosting.Lifetime) Now listening on: http://unix:/tmp/yourata.sock\\n\", \"[2026-10-27 0818Z] [Information] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.\\n\", \"[2026-10-27 0818Z] [Information] (Microsoft.Hosting.Lifetime) Hosting environment: Development\\n\", \"[2026-10-27 0818Z] [Information] (Microsoft.Hosting.Lifetime) Content root path: /home/runner/work/episodes/episodes/src/YouRata.ConflictMonitor\\n\" ]",
+    "Status": "Last Run 2026-10-27 0818Z",
+    "YouTubeSyncIntelligence": "{ \"Condition\": \"MILESTONE_COMPLETED\", \"ProcessId\": 2977, \"VideosProcessed\": 0, \"VideosSkipped\": 0, \"CalculatedQueriesPerDayRemaining\": 9899, \"LastQueryTime\": \"1793089099\", \"FirstVideoPublishTime\": \"1792621810\", \"OutstandingVideoPublishTime\": \"1705033649\", \"HasOutstandingVideos\": false }"
   }
 }
